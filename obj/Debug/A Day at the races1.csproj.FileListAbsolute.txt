@@ -1,0 +1,9 @@
+C:\Users\Zoilo Reyes\Documents\Visual Studio 2015\Projects\A Day at the races1\bin\Debug\A Day at the races1.exe.config
+C:\Users\Zoilo Reyes\Documents\Visual Studio 2015\Projects\A Day at the races1\bin\Debug\A Day at the races1.exe
+C:\Users\Zoilo Reyes\Documents\Visual Studio 2015\Projects\A Day at the races1\bin\Debug\A Day at the races1.pdb
+C:\Users\Zoilo Reyes\Documents\Visual Studio 2015\Projects\A Day at the races1\obj\Debug\A Day at the races1.csprojResolveAssemblyReference.cache
+C:\Users\Zoilo Reyes\Documents\Visual Studio 2015\Projects\A Day at the races1\obj\Debug\A_Day_at_the_races.Form1.resources
+C:\Users\Zoilo Reyes\Documents\Visual Studio 2015\Projects\A Day at the races1\obj\Debug\A_Day_at_the_races.Properties.Resources.resources
+C:\Users\Zoilo Reyes\Documents\Visual Studio 2015\Projects\A Day at the races1\obj\Debug\A Day at the races1.csproj.GenerateResource.Cache
+C:\Users\Zoilo Reyes\Documents\Visual Studio 2015\Projects\A Day at the races1\obj\Debug\A Day at the races1.exe
+C:\Users\Zoilo Reyes\Documents\Visual Studio 2015\Projects\A Day at the races1\obj\Debug\A Day at the races1.pdb
